@@ -1,0 +1,11 @@
+node_modules/
+build/
+.parcel-cache/
+dist/
+client/dist/
+.cache/
+npm-debug.log
+.nyc
+.env
+.DS_Store
+.vscode

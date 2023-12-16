@@ -1,1 +1,1 @@
-# UCRCampusMap
+UCR Campus Map

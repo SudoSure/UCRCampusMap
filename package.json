@@ -1,0 +1,35 @@
+{
+  "name": "ucr-campus-map",
+  "version": "1.0.0",
+  "description": "UCR Campus Map",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "concurrently \"npm run server\" \"npm run client\"",
+    "client": "cd client && npx parcel public/index.html -p 42069",
+    "server": "node app.js",
+    "build": "",
+    "heroku-postbuild": "npm install && cd client && npm install && npx parcel build public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanr33/UCR-Campus-Map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ethanr33/UCR-Campus-Map/issues"
+  },
+  "homepage": "https://github.com/ethanr33/UCR-Campus-Map#readme",
+  "dependencies": {
+    "concurrently": "^7.1.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.2.10",
+    "parcel": "^2.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
