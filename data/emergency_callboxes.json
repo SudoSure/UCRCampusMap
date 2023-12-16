@@ -1,0 +1,383 @@
+{
+   "marker_data":  [
+   {
+      "place_name": "Emergency_Callbox_ID:1",
+      "place_coords": {"lat": 33.976819, "lng": -117.323762},
+      "place_address": "Lot 15 East"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:2",
+      "place_coords": {"lat": 33.9762589, "lng": -117.32443},
+      "place_address": "Lot 15 West"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:4",
+      "place_coords": {"lat": 33.9743068, "lng": -117.3221495},
+      "place_address": "Lot 13 West"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:5",
+      "place_coords": {"lat": 33.974503, "lng": -117.320537},
+      "place_address": "Lot 13 Middle"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:6",
+      "place_coords": {"lat": 33.97523, "lng": -117.319697},
+      "place_address": "Lot 13 East"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:7",
+      "place_coords": {"lat": 33.97523, "lng": -117.319697},
+      "place_address": "Bannockburn North Lot"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:8",
+      "place_coords": {"lat": 33.9814012, "lng": -117.3315714},
+      "place_address": "Lot 26 East"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:9",
+      "place_coords": {"lat": 33.98141, "lng": -117.334667},
+      "place_address": "Lot 26 West"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:10",
+      "place_coords": {"lat": 33.9786954, "lng": -117.3229493},
+      "place_address": "Lot 21 West"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:11",
+      "place_coords": {"lat": 33.9787026, "lng": -117.3219133},
+      "place_address": "Lot 21 East"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:12",
+      "place_coords": {"lat": 33.9788053, "lng": -117.3206665},
+      "place_address": "Lot 20"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:13",
+      "place_coords": {"lat": 33.9772058, "lng": -117.3302227},
+      "place_address": "Lot 24"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:15",
+      "place_coords": {"lat": 33.9737334, "lng": -117.3230435},
+      "place_address": "Lot 10"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:17",
+      "place_coords": {"lat": 33.9739359, "lng": -117.3323003},
+      "place_address": "Lot 1"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:18",
+      "place_coords": {"lat": 33.9731373, "lng": -117.3319809},
+      "place_address": "Lot 1"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:19",
+      "place_coords": {"lat": 33.9716356, "lng": -117.3305962},
+      "place_address": "Lot 4"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:20",
+      "place_coords": {"lat": 33.9709884, "lng": -117.3293659},
+      "place_address": "Lot 5"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:21",
+      "place_coords": {"lat": 33.9704851, "lng": -117.3285395},
+      "place_address": "Lot 6 North (lower)"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:22",
+      "place_coords": {"lat": 33.9694164, "lng": -117.3269595},
+      "place_address": "Lot 6 South (upper)"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:23",
+      "place_coords": {"lat": 33.9703617, "lng": -117.3259507},
+      "place_address": "Lot 7"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:24",
+      "place_coords": {"lat": 33.9719156, "lng": -117.3266896},
+      "place_address": "Library Road"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:25",
+      "place_coords": {"lat": 33.9711943, "lng": -117.3230929},
+      "place_address": "Lot 9"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:26",
+      "place_coords": {"lat": 33.9734512, "lng": -117.3246431},
+      "place_address": "Science Library"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:27",
+      "place_coords": {"lat": 33.9751474, "lng": -117.3299319},
+      "place_address": "Lot 19"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:28",
+      "place_coords": {"lat": 33.9750026, "lng": -117.3275814},
+      "place_address": "Bourns Hall"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:29",
+      "place_coords": {"lat": 33.971687, "lng": -117.3203775},
+      "place_address": "Botanic Gardens"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:30",
+      "place_coords": {"lat": 33.9706678, "lng": -117.3310542},
+      "place_address": "Lot 30 Section 1 East"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:31",
+      "place_coords": {"lat": 33.9712769, "lng": -117.3337815},
+      "place_address": "Lot 30 Section 2"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:32",
+      "place_coords": {"lat": 33.9703671, "lng": -117.3320342},
+      "place_address": "Lot 30 Section 1 West"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:33",
+      "place_coords": {"lat": 33.969511, "lng": -117.3336712},
+      "place_address": "Lot 30 Section 4"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:34",
+      "place_coords": {"lat": 33.9687248, "lng": -117.3314968},
+      "place_address": "Lot 30 Section 5"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:35",
+      "place_coords": {"lat": 33.9679102, "lng": -117.3258672},
+      "place_address": "Lot 3"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:36",
+      "place_coords": {"lat": 33.979686, "lng": -117.3234445},
+      "place_address": "Lot 23"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:37",
+      "place_coords": {"lat": 33.9741654, "lng": -117.3369055},
+      "place_address": "Highlander Hall South"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:39",
+      "place_coords": {"lat": 33.9812915, "lng": -117.3249046},
+      "place_address": "Lot 28 (CDC South)"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:40",
+      "place_coords": {"lat": 33.9796626, "lng": -117.3222232},
+      "place_address": "Parking Services"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:41",
+      "place_coords": {"lat": 33.9772532, "lng": -117.3319504},
+      "place_address": "Bannockburn South Lot"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:438",
+      "place_coords": {"lat": 33.9753971, "lng": -117.3367263},
+      "place_address": "Highland Hall North"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:439",
+      "place_coords": {"lat": 33.9781714, "lng": -117.3203936},
+      "place_address": "Glen Mor B"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:440",
+      "place_coords": {"lat": 33.9779745, "lng": -117.3207879},
+      "place_address": "Glen Mor A"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:441",
+      "place_coords": {"lat": 33.9730668, "lng": -117.3371088},
+      "place_address": "International Village"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:442",
+      "place_coords": {"lat": 33.9784445, "lng": -117.3335349},
+      "place_address": "Plaza Apts North"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:443",
+      "place_coords": {"lat": 33.9777466, "lng": -117.3338783},
+      "place_address": "Plaza Apts South"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:444",
+      "place_coords": {"lat": 33.9755514, "lng": -117.3343886},
+      "place_address": "Telephone Building"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:445",
+      "place_coords": {"lat": 33.972973, "lng": -117.3278673},
+      "place_address": "Rivera Library"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:844",
+      "place_coords": {"lat": 33.9780358, "lng": -117.3312802},
+      "place_address": "Housing Administration"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1244",
+      "place_coords": {"lat": 33.9749401, "lng": -117.3234544},
+      "place_address": "Big Springs Rd"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1245",
+      "place_coords": {"lat": 33.9749401, "lng": -117.3234544},
+      "place_address": "Lot 14"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1246",
+      "place_coords": {"lat": 33.9755422, "lng": -117.3212861},
+      "place_address": "West Glen Mor H"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1247",
+      "place_coords": {"lat": 33.9765358, "lng": -117.3214132},
+      "place_address": "Glen Mor F West"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1248",
+      "place_coords": {"lat": 33.9768113, "lng": -117.3203569},
+      "place_address": "Glen Mor F North East"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1249",
+      "place_coords": {"lat": 33.976519, "lng": -117.319764},
+      "place_address": "Big Springs Structure L1"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1250",
+      "place_coords": {"lat": 33.9765192, "lng": -117.319734},
+      "place_address": "Big Springs Structure L2"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1251",
+      "place_coords": {"lat": 33.9765176, "lng": -117.3197045},
+      "place_address": "Big Springs Structure L3"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1252",
+      "place_coords": {"lat": 33.9776515, "lng": -117.3221664},
+      "place_address": "Pentland D"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1253",
+      "place_coords": {"lat": 33.977576, "lng": -117.3253886},
+      "place_address": "Aberdeen Inverness South"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1254",
+      "place_coords": {"lat": 33.979189, "lng": -117.3257817},
+      "place_address": "Avocado St South"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1256",
+      "place_coords": {"lat": 33.9806271, "lng": -117.3320418},
+      "place_address": "Falkirk LR3"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1257",
+      "place_coords": {"lat": 33.9805168, "lng": -117.3312495},
+      "place_address": "Falkirk West (CC Drive)"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1259",
+      "place_coords": {"lat": 33.9792097, "lng": -117.3330314},
+      "place_address": "Oban North (Linden St)"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1261",
+      "place_coords": {"lat": 33.9787635, "lng": -117.3319539},
+      "place_address": "Oban Structure West"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1262",
+      "place_coords": {"lat": 33.979248, "lng": -117.3288451},
+      "place_address": "Linden"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1263",
+      "place_coords": {"lat": 33.9694597, "lng": -117.3306371},
+      "place_address": "Lot 32"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:1662",
+      "place_coords": {"lat": 33.9767821, "lng": -117.3271213},
+      "place_address": "MRB 1"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:2062",
+      "place_coords": {"lat": 33.9767821, "lng": -117.3271213},
+      "place_address": "W of Health Services"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:2063",
+      "place_coords": {"lat": 33.9750758, "lng": -117.3252107},
+      "place_address": "Lot 16"
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:2462",
+      "place_coords": {"lat": 33.9791705, "lng": -117.3240362},
+      "place_address": ""
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:2463",
+      "place_coords": {"lat": 33.9786431, "lng": -117.3242067},
+      "place_address": ""
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:2464",
+      "place_coords": {"lat": 33.9790233, "lng": -117.3246914},
+      "place_address": ""
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:2465",
+      "place_coords": {"lat": 33.977686, "lng": -117.3249302},
+      "place_address": ""
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:2466",
+      "place_coords": {"lat": 33.9785341, "lng": -117.3247881},
+      "place_address": ""
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:2467",
+      "place_coords": {"lat": 33.9796094, "lng": -117.3269082},
+      "place_address": ""
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:2468",
+      "place_coords": {"lat": 33.9796804, "lng": -117.3255565},
+      "place_address": ""
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:2469",
+      "place_coords": {"lat": 33.980659, "lng": -117.325558},
+      "place_address": ""
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:2470",
+      "place_coords": {"lat": 33.981793, "lng": -117.3269332},
+      "place_address": ""
+   },
+   {
+      "place_name": "Emergency_Callbox_ID:2471",
+      "place_coords": {"lat": 33.9822052, "lng": -117.3278882},
+      "place_address": ""
+   }
+   ]}

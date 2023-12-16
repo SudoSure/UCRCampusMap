@@ -1,0 +1,15 @@
+{
+    "marker_data": [
+      {
+        "place_name": "testname1",
+        "place_coords": {"lat": 33.97415775376197, "lng": -117.32823698037544},
+        "place_address": "testaddress1"
+      }, 
+      {
+        "place_name": "testname2",
+        "place_coords": {"lat": 33.976255307552016, "lng": -117.32737304623284},
+        "place_address": "testaddress2"
+      } 
+    ]
+  }
+  

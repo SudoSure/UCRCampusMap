@@ -1,0 +1,109 @@
+{
+  "marker_data": [{
+    "place_name":"Bourns Hall A",
+    "place_coords": {"lat": 33.97564936, "lng": -117.3270991},
+    "place_address":""
+ },
+ {
+    "place_name":"Bourns Hall B",
+    "place_coords": {"lat": 33.97520555, "lng": -117.3270509},
+    "place_address":""
+ },
+ {
+    "place_name":"Winston Chung Hall",
+    "place_coords": {"lat": 33.97529881, "lng": -117.3258782},
+    "place_address":"N Campus Dr, Riverside, CA 92507"
+ },
+ {
+    "place_name":"Boyce Hall",
+    "place_coords": {"lat": 33.97353676, "lng": -117.3248742},
+    "place_address":""
+ },
+ {
+    "place_name":"Webber Hall",
+    "place_coords": {"lat": 33.97353251, "lng": -117.3253711},
+    "place_address":""
+ },
+ {
+    "place_name":"CHASS Interdisciplinary Building South",
+    "place_coords": {"lat": 33.97478215, "lng": -117.330352},
+    "place_address":""
+ },
+ {
+    "place_name":"CHASS Interdisciplinary Building North",
+    "place_coords": {"lat": 33.97528477, "lng": -117.3303853},
+    "place_address":""
+ },
+ {
+    "place_name":"Dundee Building A",
+    "place_coords": {"lat": 33.97861593, "lng": -117.324688},
+    "place_address":""
+ },
+ {
+    "place_name":"Humanities and Social Sciences",
+    "place_coords": {"lat": 33.97299203, "lng": -117.3306478},
+    "place_address":""
+ },
+ {
+    "place_name":"Life Sciences",
+    "place_coords": {"lat": 33.97310838, "lng": -117.3269117},
+    "place_address":""
+ },
+ {
+    "place_name":"Materials Science & Engineering",
+    "place_coords": {"lat": 33.97625089, "lng": -117.3273506},
+    "place_address":""
+ },
+ {
+    "place_name":"North District",
+    "place_coords": {"lat": 33.97945027, "lng": -117.3266625},
+    "place_address":""
+ },
+ {
+    "place_name":"Olmsted Hall",
+    "place_coords": {"lat": 33.97131048, "lng": -117.3279216},
+    "place_address":""
+ },
+ {
+    "place_name":"Physics",
+    "place_coords": {"lat": 33.97450457, "lng": -117.3254153},
+    "place_address":""
+ },
+ {
+    "place_name":"Pierce Hall",
+    "place_coords": {"lat": 33.97424369, "lng": -117.3269465},
+    "place_address":""
+ },
+ {
+    "place_name":"Sproul Hall",
+    "place_coords": {"lat": 33.97282807, "lng": -117.3299051},
+    "place_address":""
+ },
+ {
+    "place_name":"Skye Hall",
+    "place_coords": {"lat": 33.97523417, "lng": -117.3288858},
+    "place_address":""
+ },
+ {
+    "place_name":"Spieth Hall",
+    "place_coords": {"lat": 33.97286075, "lng": -117.3265939},
+    "place_address":""
+ },
+ {
+    "place_name":"Student Success Center",
+    "place_coords": {"lat": 33.97424759, "lng": -117.3305581},
+    "place_address":""
+ },
+ {
+    "place_name":"Unviersity Lecture Hall",
+    "place_coords": {"lat": 33.97569736, "lng": -117.3284183},
+    "place_address":""
+ },
+ {
+    "place_name":"Watkins Hall",
+    "place_coords": {"lat": 33.97289627, "lng": -117.3289911},
+    "place_address":""
+ }
+ ]
+}
+  
